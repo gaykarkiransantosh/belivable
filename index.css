@@ -1,0 +1,127 @@
+.first {
+   background-image: url(img/fc.png);
+  }
+  .form-inline
+  {
+    margin-left: 0%;
+  }
+
+ #font-first
+  {
+  font-size:300%;
+  line-height: 1.2;
+  }
+  .img-thumbnail {
+    background:none;
+    border: none;
+}
+  #first-container-half
+  {
+  margin-top: 10%;
+row-gap: 4%;
+    }
+    #second-container-half
+    {
+    margin-top: 4%;
+      }
+
+  .second-container
+      {
+      margin: 4%;
+        }
+      .rc {
+        margin-top:2%;
+      }
+      .rc1 {
+      border-radius: 25px;
+    }
+    .rc2 {
+        border-radius: 25px;
+        padding-left: 5%;
+        padding-right: 5%;
+      }
+    .red
+    {
+    color: rgb(121, 10, 10);
+      }
+    .first-line {
+        font-size: x-large;
+       
+      }
+      .second-line {
+       font-size: large;
+      
+      }
+      .tc1-line {
+        font-size:300%;
+      
+       }
+
+      #four-container
+     
+       {
+        background-image: url(img/Back-4.png);
+      
+       }
+      #content
+       {
+margin-top: 10%;
+       }
+    
+       .four-line
+       {
+       font-size: xx-large;
+       color: white;
+       
+              }
+
+     
+              .four-linesmall
+              {
+              font-size: large;
+              color: white;
+              
+                     }
+                     #margin-container
+
+                     {
+                      margin:2%;
+                      padding-right: 7%;
+                               }
+
+ 
+             
+             .image1 
+             {
+            position: absolute;
+                        }  
+                        
+                        .image 
+                        {
+                       position: absolute;
+                       margin-top: 15%;
+                                   }    
+                                   .fifth {
+                                    position: relative;
+                                  }
+                                  
+                                  /* Bottom right text */
+                                  .text-block {
+                                    position: absolute;
+                             margin-left: 25%;
+                                    color: white;
+                                   margin-top: 19%;
+                                  }
+                                #footer{
+                                  background-color: rgb(20, 20, 61);
+                                position: absolute;
+                                margin-top: 25%;
+                               padding-bottom: 25%;
+                                color: oldlace;
+                                }
+                                #abc{
+                                  position: absolute;
+                              
+                                  color: oldlace;
+                                  }
+                               
